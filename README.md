@@ -25,7 +25,7 @@ I’m a Product Owner/Manager focused on building and optimising meaningful digi
 **Web & Tech:** Git, GitHub, DeployHQ, WordPress (LocalWP, Elementor), FileZilla, PuTTY  
 **Analytics & Optimisation:** GA360, BigQuery, Optimizely, SE Ranking, SEMrush, CleverTap  
 **Infrastructure & DevOps:** Cloudflare, DevOps workflows, staging & deployments  
-**CMS & Platforms:** Kontent.ai, Dynamics 365
+**CMS & Platforms:** Kontent.ai, Dynamics 365  
 **Certifications:** Certified Scrum Product Owner (CSPO®)
 
 ---
@@ -52,4 +52,4 @@ I share practical notes on product thinking, experiments, and technical workflow
 ## 🤝 Let’s Connect
 
 I'm open to collaboration, freelance work, or a chat about product challenges.  
-Reach out via [LinkedIn](https://www.linkedin.com/in/petelinkar) or through my [website contact form](https://petelinkar.com/#contact).
+Reach out via [LinkedIn](https://www.linkedin.com/in/petelinkar), [email](mailto:caioptk@gmail.com) or through my [website contact page](https://petelinkar.com/get-in-touch/).
